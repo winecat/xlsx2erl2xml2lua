@@ -1,0 +1,15 @@
+1)excel文件名命名规则
+1.只能用英文字母
+2.名字通用格式为 com_luaName_sheetName_keyName.xlsx (com_xxx_xxx_xxx.xlsx)
+luaName:生成的lua文件的名字
+sheetName:excel中需要读取生成的sheet名
+keyName:lua中用作key的值在excel中的列名
+如：
+com_skill_id_skill.xlsx
+生成的lua文件将是config_skill.lua
+
+2)excel配置格式说明
+参考 com_skill_id_skill.xlsx
+
+3)shell中调用操作如下
+python data_common.py com_luaName_sheetName_keyName

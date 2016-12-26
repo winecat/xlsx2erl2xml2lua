@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resultset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<item>
+    <id>1001</id>
+    <name>白装武器</name>
+    <type>1</type>
+    <big_type>1</big_type>
+    <quality>0</quality>
+    <res_id>1001</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>86</sell_npc>
+    </value>
+    <effect></effect>
+    <attr>
+    	<5>100</5>
+    </attr>
+    <desc>武器1</desc>
+    <ui_link></ui_link>
+
+    <set_id>1</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>1002</id>
+    <name>绿装武器</name>
+    <type>1</type>
+    <big_type>1</big_type>
+    <quality>1</quality>
+    <res_id>1002</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>86</sell_npc>
+    </value>
+    <effect></effect>
+    <attr>
+    	<5>100</5>
+    </attr>
+    <desc>武器1</desc>
+    <ui_link></ui_link>
+
+    <set_id>1</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>1003</id>
+    <name>蓝装武器</name>
+    <type>1</type>
+    <big_type>1</big_type>
+    <quality>2</quality>
+    <res_id>1003</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>86</sell_npc>
+    </value>
+    <effect></effect>
+    <attr>
+    	<5>100</5>
+    </attr>
+    <desc>武器1</desc>
+    <ui_link></ui_link>
+
+    <set_id>1</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>1004</id>
+    <name>蓝套武器</name>
+    <type>1</type>
+    <big_type>1</big_type>
+    <quality>2</quality>
+    <res_id>1004</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr>
+    	<5>100</5>
+    </attr>
+    <desc>武器1</desc>
+    <ui_link></ui_link>
+
+    <set_id>0</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>1005</id>
+    <name>紫套武器</name>
+    <type>1</type>
+    <big_type>1</big_type>
+    <quality>3</quality>
+    <res_id>1005</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr>
+    	<5>100</5>
+    </attr>
+    <desc>武器1</desc>
+    <ui_link></ui_link>
+
+    <set_id>0</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>2001</id>
+    <name>白装头盔</name>
+    <type>2</type>
+    <big_type>1</big_type>
+    <quality>0</quality>
+    <res_id>2001</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>86</sell_npc>
+    </value>
+    <effect></effect>
+    <attr>
+    	<7>100</7>
+    	<4>100</4>
+    </attr>
+    <desc>头盔</desc>
+    <ui_link></ui_link>
+
+    <set_id>1</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>2002</id>
+    <name>绿装头盔</name>
+    <type>2</type>
+    <big_type>1</big_type>
+    <quality>1</quality>
+    <res_id>2002</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>86</sell_npc>
+    </value>
+    <effect></effect>
+    <attr>
+    	<7>100</7>
+    	<4>100</4>
+    </attr>
+    <desc>头盔</desc>
+    <ui_link></ui_link>
+
+    <set_id>1</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>2003</id>
+    <name>蓝装头盔</name>
+    <type>2</type>
+    <big_type>1</big_type>
+    <quality>2</quality>
+    <res_id>2003</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>86</sell_npc>
+    </value>
+    <effect></effect>
+    <attr>
+    	<7>100</7>
+    	<4>100</4>
+    </attr>
+    <desc>头盔</desc>
+    <ui_link></ui_link>
+
+    <set_id>1</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>2004</id>
+    <name>蓝套头盔</name>
+    <type>2</type>
+    <big_type>1</big_type>
+    <quality>2</quality>
+    <res_id>2004</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr>
+    	<7>100</7>
+    	<4>100</4>
+    </attr>
+    <desc>头盔</desc>
+    <ui_link></ui_link>
+
+    <set_id>0</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>2005</id>
+    <name>紫套头盔</name>
+    <type>2</type>
+    <big_type>1</big_type>
+    <quality>3</quality>
+    <res_id>2005</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr>
+    	<7>100</7>
+    	<4>100</4>
+    </attr>
+    <desc>头盔</desc>
+    <ui_link></ui_link>
+
+    <set_id>0</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>3001</id>
+    <name>白装护甲</name>
+    <type>3</type>
+    <big_type>1</big_type>
+    <quality>0</quality>
+    <res_id>3001</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>86</sell_npc>
+    </value>
+    <effect></effect>
+    <attr>
+    	<6>100</6>
+    	<4>100</4>
+    </attr>
+    <desc>护甲</desc>
+    <ui_link></ui_link>
+
+    <set_id>1</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>3002</id>
+    <name>绿装护甲</name>
+    <type>3</type>
+    <big_type>1</big_type>
+    <quality>1</quality>
+    <res_id>3002</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>86</sell_npc>
+    </value>
+    <effect></effect>
+    <attr>
+    	<6>100</6>
+    	<4>100</4>
+    </attr>
+    <desc>护甲</desc>
+    <ui_link></ui_link>
+
+    <set_id>1</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>3003</id>
+    <name>蓝装护甲</name>
+    <type>3</type>
+    <big_type>1</big_type>
+    <quality>2</quality>
+    <res_id>3003</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>86</sell_npc>
+    </value>
+    <effect></effect>
+    <attr>
+    	<6>100</6>
+    	<4>100</4>
+    </attr>
+    <desc>护甲</desc>
+    <ui_link></ui_link>
+
+    <set_id>1</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>3004</id>
+    <name>蓝套护甲</name>
+    <type>3</type>
+    <big_type>1</big_type>
+    <quality>2</quality>
+    <res_id>3004</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr>
+    	<6>100</6>
+    	<4>100</4>
+    </attr>
+    <desc>护甲</desc>
+    <ui_link></ui_link>
+
+    <set_id>0</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>3005</id>
+    <name>紫套护甲</name>
+    <type>3</type>
+    <big_type>1</big_type>
+    <quality>3</quality>
+    <res_id>3005</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr>
+    	<6>100</6>
+    	<4>100</4>
+    </attr>
+    <desc>护甲</desc>
+    <ui_link></ui_link>
+
+    <set_id>0</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>4001</id>
+    <name>白装项链</name>
+    <type>4</type>
+    <big_type>1</big_type>
+    <quality>0</quality>
+    <res_id>4001</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>86</sell_npc>
+    </value>
+    <effect></effect>
+    <attr>
+    	<4>100</4>
+    </attr>
+    <desc>项圈</desc>
+    <ui_link></ui_link>
+
+    <set_id>1</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>4002</id>
+    <name>绿装项链</name>
+    <type>4</type>
+    <big_type>1</big_type>
+    <quality>1</quality>
+    <res_id>4002</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>86</sell_npc>
+    </value>
+    <effect></effect>
+    <attr>
+    	<4>100</4>
+    </attr>
+    <desc>项圈</desc>
+    <ui_link></ui_link>
+
+    <set_id>1</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>4003</id>
+    <name>蓝装项链</name>
+    <type>4</type>
+    <big_type>1</big_type>
+    <quality>2</quality>
+    <res_id>4003</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>86</sell_npc>
+    </value>
+    <effect></effect>
+    <attr>
+    	<4>100</4>
+    </attr>
+    <desc>项圈</desc>
+    <ui_link></ui_link>
+
+    <set_id>1</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>4004</id>
+    <name>蓝套项链</name>
+    <type>4</type>
+    <big_type>1</big_type>
+    <quality>2</quality>
+    <res_id>4004</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr>
+    	<4>100</4>
+    </attr>
+    <desc>项圈</desc>
+    <ui_link></ui_link>
+
+    <set_id>0</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>4005</id>
+    <name>紫套项链</name>
+    <type>4</type>
+    <big_type>1</big_type>
+    <quality>3</quality>
+    <res_id>4005</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>1</overlap>
+    <use_type>3</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr>
+    	<4>100</4>
+    </attr>
+    <desc>项圈</desc>
+    <ui_link></ui_link>
+
+    <set_id>0</set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>10001</id>
+    <name>喜钊碎片</name>
+    <type>10</type>
+    <big_type>3</big_type>
+    <quality>0</quality>
+    <res_id>10001</res_id>
+    <bag_item_type>2</bag_item_type>
+    <overlap>999</overlap>
+    <use_type>0</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc>装备碎片</desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num>5</need_num>
+    <combine_list>
+    	<item>1001</item>
+    </combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>30001</id>
+    <name>进阶丹</name>
+    <type>30</type>
+    <big_type>2</big_type>
+    <quality>2</quality>
+    <res_id>30001</res_id>
+    <bag_item_type>4</bag_item_type>
+    <overlap>999</overlap>
+    <use_type>0</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>86</sell_npc>
+    </value>
+    <effect></effect>
+    <attr></attr>
+    <desc>进阶丹</desc>
+    <ui_link>openUI|603</ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>30002</id>
+    <name>附魔材料</name>
+    <type>30</type>
+    <big_type>2</big_type>
+    <quality>2</quality>
+    <res_id>30002</res_id>
+    <bag_item_type>4</bag_item_type>
+    <overlap>999</overlap>
+    <use_type>0</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>86</sell_npc>
+    </value>
+    <effect></effect>
+    <attr></attr>
+    <desc>附魔材料</desc>
+    <ui_link>openUI|602</ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>66001</id>
+    <name>礼包</name>
+    <type>66</type>
+    <big_type>4</big_type>
+    <quality>1</quality>
+    <res_id>66001</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>100</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num>1</rand_num>
+    <base_list>
+    	<weight_tuple><weight>25</weight><item_id>1001</item_id><num>1</num><is_bind>0</is_bind></weight_tuple>
+    	<weight_tuple><weight>25</weight><item_id>1002</item_id><num>1</num><is_bind>0</is_bind></weight_tuple>
+    </base_list>
+    <virtual_list>
+    	<gain><item_id>1</item_id><num>1000</num><is_bind>0</is_bind></gain>
+    </virtual_list>
+</item>
+
+
+<item>
+    <id>51000</id>
+    <name>附魔道具0</name>
+    <type>51</type>
+    <big_type>6</big_type>
+    <quality>2</quality>
+    <res_id>51000</res_id>
+    <bag_item_type>4</bag_item_type>
+    <overlap>999</overlap>
+    <use_type>0</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>86</sell_npc>
+    </value>
+    <effect></effect>
+    <attr></attr>
+    <desc>附魔材料</desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>51001</id>
+    <name>附魔道具1</name>
+    <type>51</type>
+    <big_type>6</big_type>
+    <quality>2</quality>
+    <res_id>51001</res_id>
+    <bag_item_type>4</bag_item_type>
+    <overlap>999</overlap>
+    <use_type>0</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>87</sell_npc>
+    </value>
+    <effect></effect>
+    <attr></attr>
+    <desc>附魔材料</desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>51002</id>
+    <name>附魔道具2</name>
+    <type>51</type>
+    <big_type>6</big_type>
+    <quality>2</quality>
+    <res_id>51002</res_id>
+    <bag_item_type>4</bag_item_type>
+    <overlap>999</overlap>
+    <use_type>0</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>88</sell_npc>
+    </value>
+    <effect></effect>
+    <attr></attr>
+    <desc>附魔材料</desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>51003</id>
+    <name>附魔道具3</name>
+    <type>51</type>
+    <big_type>6</big_type>
+    <quality>2</quality>
+    <res_id>51003</res_id>
+    <bag_item_type>4</bag_item_type>
+    <overlap>999</overlap>
+    <use_type>0</use_type>
+    <condition></condition>
+    <value>
+    	<buy_npc>825</buy_npc>
+    	<sell_npc>89</sell_npc>
+    </value>
+    <effect></effect>
+    <attr></attr>
+    <desc>附魔材料</desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>1</id>
+    <name>金币</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>2</id>
+    <name>绑定金币</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>3</id>
+    <name>银币</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>4</id>
+    <name>经验</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>5</id>
+    <name>战魂</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>6</id>
+    <name>装备CD</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>7</id>
+    <name>竞技场积分</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>8</id>
+    <name>公会贡献</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>9</id>
+    <name>蓝色碎片</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>2</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>10</id>
+    <name>紫色碎片</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>3</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>11</id>
+    <name>橙色碎片</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>4</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>12</id>
+    <name>红色碎片</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>13</id>
+    <name>宠物经验</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>14</id>
+    <name>体力</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>15</id>
+    <name>夺宝奇兵物品1</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>16</id>
+    <name>夺宝奇兵物品2</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>17</id>
+    <name>夺宝奇兵物品3</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>18</id>
+    <name>夺宝奇兵物品4</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>19</id>
+    <name>夺宝奇兵物品5</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>20</id>
+    <name>夺宝奇兵物品6</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+
+<item>
+    <id>21</id>
+    <name>夺宝奇兵物品7</name>
+    <type>0</type>
+    <big_type>0</big_type>
+    <quality>0</quality>
+    <res_id>76000</res_id>
+    <bag_item_type>1</bag_item_type>
+    <overlap>99</overlap>
+    <use_type>1</use_type>
+    <condition></condition>
+    <value></value>
+    <effect></effect>
+    <attr></attr>
+    <desc></desc>
+    <ui_link></ui_link>
+
+    <set_id></set_id>
+
+    <need_num></need_num>
+    <combine_list></combine_list>
+
+    <rand_num></rand_num>
+    <base_list></base_list>
+    <virtual_list></virtual_list>
+</item>
+
+</resultset>
