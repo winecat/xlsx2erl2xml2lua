@@ -4,6 +4,7 @@
 @author: dzw
 @deprecated: 2013-11-7 17:07:43
 '''
+import libs.const
 from libs.utils import load_excel, load_sheel, module_header, gen_erl, gen_xml, prev, replace_quote
 from openpyxl.reader.excel import load_workbook
 from collections import defaultdict
@@ -222,7 +223,7 @@ def scan_get_name_type_arr(content):
 	for_dict = {}
 	pre_dict = {}
 
-	for i in range(0, 256):
+	for i in range(0, const.SHEET_LINE_MAX):
 		if i >= len(content) or content[i] == None or content[i] == "":	 ### 遇到空列 结束
 			field_count = i
 			break
